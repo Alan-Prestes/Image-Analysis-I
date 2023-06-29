@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/87569077/236585012-9f31c629-35f3-40c3-99de-541efcb9db63.jpg" width="200">
-<h1 align="center"> Dashboard para análise de imagem:Contando e biometria </h1>
+<h1 align="center"> Dashboard para análise de imagem: Contagem e biometria </h3>
 
 ## Descrição do Projeto
 Dashboard criado para a segmentação de imagens com o objetivo de contar e medir objetos.
