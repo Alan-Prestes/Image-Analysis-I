@@ -1,1 +1,1 @@
-# image-analysis
+# Dashboard para análise de imagem - Contando e medindo
