@@ -15,7 +15,7 @@ Dashboard criado para a segmentação de imagens com o objetivo de contar e medi
 Para executar abra o _`R Studio`_ e execute o seguinte comando:
 ```ruby
 library(shiny)
-runGitHub(repo="image-analysis", username = "Alan-Prestes", ref="main")
+runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ```
 
 
