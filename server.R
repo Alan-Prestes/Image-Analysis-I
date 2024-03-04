@@ -298,17 +298,7 @@ shinyServer(
             filename = function(data) {
                 paste("Biometria","-", data=Sys.Date(), ".xlsx", sep="")
             },
-            content = function(file) {write_xlsx(med_image(dataset_corte_redm = corte_image(dataset= REDIMENSIONAR(),
-                                                                                            h_min=input$ALTURA_MIN, h_max=input$ALTURA_MAX,
-                                                                                            w_min=input$LARGURA_MIN, w_max=input$LARGURA_MAX,
-                                                                                            resposta=input$CORTAR),
-                                                           dataset_redim = REDIMENSIONAR(),
-                                                           dataset_cortado = CORTAR(),
-                                                           dataset_sem_edit= DATASET(),
-                                                           resposta_segment=input$SEGMENT,
-                                                           resposta_redm=input$REDIM,
-                                                           resposta_cortar=input$CORTAR,
-                                                           segmentacao=SEGMENTACAO()),
+            content = function(file) {write_xlsx(MEDINDO_IMAGEM(),
                                                  path = file)}
             )
         
