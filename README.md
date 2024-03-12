@@ -27,6 +27,16 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 3. Caso deseje editar a imagem importada, clique em “Formatar imagem”.
 ![Passo 2](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/c417ddcb-f470-40f6-9dba-cf4e2792fa42)
 
+3.1 Caso deseje redimensionar a imagem, basta escolher a percentagem desejada (sugere-se esta edição para imagens de alta resolução); <br />
+3.2. É possível também cortar a imagem caso deseje remover algo que prejudique a análise. <br />
+3.3. Importante estar atento à largura e altura da imagem uma vez que seja necessário escolher um intervalo mínimo e máximo de acordo com o tamanho da mesma. <br />
+4. Após formatada a imagem, clique em “Definir imagem”. <br />
+**OBS: Caso não seja necessária a edição, desconsidere a etapa 3.1, 3.2 e 3.3.** <br />
+
+
+
+
+
 ### Pacotes utilizados
 * ExpImage: [CRAN](https://cran.r-project.org/web/packages/ExpImage/ExpImage.pdf)
 * shiny: [CRAN](https://cran.r-project.org/package=shiny)
