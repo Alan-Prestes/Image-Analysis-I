@@ -47,6 +47,13 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 **6.1.4** Caso haja ruídos no interior do objeto-alvo (pixels escuros), assinale esta caixa; <br />
 **6.1.5** É possível delimitar um tamanho mínimo de objeto. Caso a segmentação não seja suficiente para eliminar objetos indesejáveis, esta opção é válida. <br />
 **7.** Definidos todos os parâmetros para a segmentação, clique em “Contar e medir”. <br />
+![Passo 6](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/7e5bcd83-bb90-47e1-9fe2-f4f0369e836f)
+
+**Como resultado, serão geradas três saídas, sendo elas:** <br />
+**7.1** Tabela com a medida de todos os objetos contabilizados na imagem; <br />
+**7.2** Imagem com os objetos contabilizados em destaque; <br />
+**7.3** Identificação de cada objeto. <br />
+**8.** É possível realizar o download da tabela em formato Excel e da imagem no formato PNG. <br />
 
 
 
