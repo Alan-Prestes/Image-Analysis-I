@@ -19,12 +19,12 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ```
 
 ## Como proceder :punch:
-**1.** Importe a imagem desejada (em formato PNG ou JPEG);<br />
-**2.** Após escolher o arquivo, clique em **_Importar_**;<br />
+**1.** Importe a imagem desejada (em formato PNG ou JPEG); <br />
+**2.** Após escolher o arquivo, clique em **_Importar_**; <br />
 
 ![Passo 1](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/28870b87-535f-473c-9af7-b452507edf53)
 
-**3.** Caso deseje editar a imagem importada, clique em “Formatar imagem”.
+**3.** Caso deseje editar a imagem importada, clique em “Formatar imagem”. <br />
 ![Passo 2](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/c417ddcb-f470-40f6-9dba-cf4e2792fa42)
 
 **3.1** Caso deseje redimensionar a imagem, basta escolher a percentagem desejada (sugere-se esta edição para imagens de alta resolução); <br />
