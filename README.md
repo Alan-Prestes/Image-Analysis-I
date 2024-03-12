@@ -19,8 +19,8 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ```
 
 ## Como proceder :punch:
-**1.** Importe a imagem desejada (em formato PNG ou JPEG);
-**2.** Após escolher o arquivo, clique em **_Importar_**;
+**1.** Importe a imagem desejada (em formato PNG ou JPEG);<br />
+**2.** Após escolher o arquivo, clique em **_Importar_**;<br />
 
 ![Passo 1](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/28870b87-535f-473c-9af7-b452507edf53)
 
