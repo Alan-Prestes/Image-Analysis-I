@@ -18,6 +18,10 @@ library(shiny)
 runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ```
 
+## Como proceder :punch:
+1. Importe a imagem desejada (em formato PNG ou JPEG);
+2. Após escolher o arquivo, clique em “Importar”;
+
 
 ### Pacotes utilizados
 * ExpImage: [CRAN](https://cran.r-project.org/web/packages/ExpImage/ExpImage.pdf)
