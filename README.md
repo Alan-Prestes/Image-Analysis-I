@@ -54,8 +54,7 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 **7.2** Imagem com os objetos contabilizados em destaque; <br />
 **7.3** Identificação de cada objeto. <br />
 **8.** É possível realizar o download da tabela em formato Excel e da imagem no formato PNG. <br />
-
-
+![Passo 7](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/970ebfb0-70a3-4d10-aa4d-03eb4f532946)
 
 ### Pacotes utilizados
 * ExpImage: [CRAN](https://cran.r-project.org/web/packages/ExpImage/ExpImage.pdf)
