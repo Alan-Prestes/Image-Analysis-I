@@ -25,6 +25,7 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ![Passo 1](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/28870b87-535f-473c-9af7-b452507edf53)
 
 3. Caso deseje editar a imagem importada, clique em “Formatar imagem”.
+![Passo 2](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/c417ddcb-f470-40f6-9dba-cf4e2792fa42)
 
 ### Pacotes utilizados
 * ExpImage: [CRAN](https://cran.r-project.org/web/packages/ExpImage/ExpImage.pdf)
