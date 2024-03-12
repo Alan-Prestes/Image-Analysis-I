@@ -35,6 +35,9 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ![Passo 3](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/50b29c7e-f2a0-4c19-ad30-261a54c06a9b)
 
 **5.** Escolha o melhor índice de segmentação (há disponível 25 índices diferentes);<br />
+![Passo 4](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/7917d627-0012-4ecd-9926-61d1646ca29b)
+
+**6.** Após definido o melhor índice, é hora de realizar a segmentação dos objetos-alvos.<br />
 
 
 ### Pacotes utilizados
