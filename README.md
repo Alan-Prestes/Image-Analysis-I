@@ -38,6 +38,16 @@ runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ![Passo 4](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/7917d627-0012-4ecd-9926-61d1646ca29b)
 
 **6.** Após definido o melhor índice, é hora de realizar a segmentação dos objetos-alvos.<br />
+![Passo 5](https://github.com/Alan-Prestes/Image-Analysis-I/assets/87569077/77a69561-e70a-42b0-82e1-a422c7aefc0f)
+
+**6.1** Clique em “Segmentação” e aparecerá as opções: O Objetivo nesta seção é deixar o objeto-alvo (foreground) da cor branca (presença de pixel) e o fundo (background); <br />
+**6.1.1** Definição do limiar (threshold). OBS: utilize a imagem à esquerda para definir o melhor valor; <br />
+**6.1.2** Caso deseja selecionar pixels maior que o limiar, marque a caixa; <br />
+**6.1.3** Caso deseje desconsiderar valores nulos no background, assinale a caixa; <br />
+**6.1.4** Caso haja ruídos no interior do objeto-alvo (pixels escuros), assinale esta caixa; <br />
+**6.1.5** É possível delimitar um tamanho mínimo de objeto. Caso a segmentação não seja suficiente para eliminar objetos indesejáveis, esta opção é válida. <br />
+**7.** Definidos todos os parâmetros para a segmentação, clique em “Contar e medir”. <br />
+
 
 
 ### Pacotes utilizados
