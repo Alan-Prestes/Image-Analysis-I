@@ -15,7 +15,7 @@ Dashboard criado para a segmentação de imagens com o objetivo de contar e medi
 Para executar, abra o _`R Studio`_ e execute o seguinte comando:
 ```ruby
 #Caso não tenha os pacotes abaixo instalados, faça a instalação
-install.packages(c("ExpImage", "shiny", "shinythemes", "writexl","raster", "sp"))
+install.packages(c("ExpImage", "shiny", "shinythemes", "writexl","raster", "sp", "ggplot2", "doParallel", "progress"))
 library(shiny)
 runGitHub(repo="image-analysis-I", username = "Alan-Prestes", ref="main")
 ```
